@@ -1,0 +1,26 @@
+_repo: Le-chevalier-des-dames-du-dolent-fortun-_26394
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dolent Fortuné
+    alias: Fortuné, Dolent
+    gutenberg_agent_id: '31976'
+    url: http://www.gutenberg.org/2009/agents/31976
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2008-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26394'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry'
+- !lcc 'PQ'
+title: Le chevalier des dames du dolent fortuné
+url: http://www.gutenberg.org/ebooks/26394
